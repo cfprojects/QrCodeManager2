@@ -1,0 +1,8 @@
+body {margin: 1em 2em; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 14px;}
+li {margin-bottom: .3em}
+.fltrt {float:right; margin-left:1em;}
+.red {color:red;}
+#path {font-size:smaller;}
+table.stdtable {font-size: .85em; border: 1px solid silver; border-collapse: collapse;}
+table.stdtable td, table.stdtable th {vertical-align: top; padding: 2px 6px; border: 1px solid #ccc;}
+table.stdtable th {background-color: #eee;}
